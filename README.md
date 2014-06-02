@@ -6,6 +6,7 @@ A distributed database engine implemented by Java RMI, support similarity search
 The system fragment table to 4 servers. 
 
 This is a example:
+
 Publisher.1            id>=104000 AND nation=’USA’
 
 Publisher.2            id<104000 AND nation=’RC’
